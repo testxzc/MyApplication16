@@ -12,4 +12,5 @@
         android:textSize="20sp"
         android:text="This 666 is right fragment"/>
 
+
 </LinearLayout>
